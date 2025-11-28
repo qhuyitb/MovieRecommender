@@ -1,8 +1,4 @@
-## 📌 Mô tả
-Hệ thống gợi ý phim sử dụng Smooth Switching Hybrid approach kết hợp:
-- Content-Based Filtering (TF-IDF)
-- Collaborative Filtering (SVD)
-- Neural Collaborative Filtering (Deep Learning)
+
 
 ## 📊 Dataset
 - MovieLens 25M
