@@ -1,3 +1,0 @@
-data/raw/ratings.csv filter=lfs diff=lfs merge=lfs -text
-data/raw/genome-scores.csv filter=lfs diff=lfs merge=lfs -text
-data/cleaned/*.csv filter=lfs diff=lfs merge=lfs -text
